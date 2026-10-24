@@ -13,6 +13,9 @@ hotels and homes in Bangkok), made by [O2 Design Studio](https://o2-designstudio
   it needs a server and is not part of this preview.
 - **Nothing here calls, messages or sends a request.** Call, WhatsApp and request buttons show a short
   note instead. The emergency number, 1669, still dials.
+- **The symptom assistant is a demo with scripted answers.** It runs in your browser, nothing you type
+  leaves it, and it says so. It is an AI triage helper, not a doctor: it checks for emergency signs
+  first and only ever suggests services from the catalog.
 - Services, prices and business details come from the current public site. Anything marked
   "pending" is not yet confirmed by the business.
 - Not listed on search engines (`noindex`).
