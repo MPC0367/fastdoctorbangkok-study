@@ -8,7 +8,11 @@ design and code are by O2 Design Studio.
 
 ## Photographs
 
-The preview uses no photographs.
+- **All photographs come from FastDoctorBangkok's current website** and appear here with the
+  business's approval, for this preview only. Do not copy or reuse them. The people in the service
+  pictures are models, not patients.
+- The patient photos from the current site's "Trusted by Travelers" section are left out until the
+  business has documented consent, and so are the partner logos.
 
 ## Content
 
