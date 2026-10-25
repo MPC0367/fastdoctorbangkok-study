@@ -17,7 +17,7 @@ hotels and homes in Bangkok), made by [O2 Design Studio](https://o2-designstudio
   and helps people who feel unwell find the right care. It is an AI, not a doctor: it checks for
   emergency signs first, never diagnoses or names medicines, and only suggests services from the
   catalog. Until its service is switched on it runs as a demo with scripted answers in your browser,
-  and says so; with it, answers come from Claude (Anthropic) and the chat says where messages go.
+  and says so; with it, answers come from an AI model run by Cloudflare (or Claude, by Anthropic, if a key is added), and the chat says where messages go.
   Its health information is a draft awaiting clinical review.
 - Services, prices and business details come from the current public site. Anything marked
   "pending" is not yet confirmed by the business.
